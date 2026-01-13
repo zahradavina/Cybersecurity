@@ -1,15 +1,14 @@
-<h1>Welcome to my cybersecurity portofolio 🌺💞✨</h1>
+<h1>Website Attacking</h1>
 
-<h1>A self taught learner of cybersecurity</h1>
-<p>Welcome to my portofolio! I'm Davina and this is my journey in cybersecurity. I am an electrical engineering graduate from Institut Teknologi Sepuluh Nopember Surabaya (ITS) Who have some interest in cyberscurity specially in red teaming. Currently worked as IT Support and NOC Level 1 in a telecommunication and network company in Indonesia.</p>
+<p>This is my website attacking portofolio, I usually did cross-XSS and SQL injection to hacked a website (of course for legal purposes). I use burp suite as the tools. </p>
 
-<h1>Tools I use 🛠</h1>
-<ul>
-  <li>Burpsuite</li>
-  <li>Wireshark</li>
-  <li>Nmap</li>
-
-<h1>CTF that I've done 🚩</h1>
+<h2>CTF</h2>
 <ul>
   <li>HackerOne</li>
-  <li>HackTheBox(On Progress)</li>
+  <li>HTB(on progress)</li>
+</ul>
+
+<h2>Lab</h2>
+<ul>
+  <li>PortSwigger</li>
+</ul>
